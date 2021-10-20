@@ -6,7 +6,7 @@
 <br/>
 <div>
     <a href="#">
-        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4tyushAa&layout=compact&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizzNs&layout=compact&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
     </a>
 </div>
  
@@ -21,7 +21,7 @@
   ##
   <div>
   <a href="https://youtube.com/channel/UCXJCfdCgdtU9k87BMrBJtuA" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=red" target="_blank"></a>
-  <a href="https://twitter.com/K4tyusha_" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23333?style=for-the-badge&logo=twitter&logoColor=blue" target="_blank"></a>
+  <a href="https://twitter.com/bolsonaro" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23333?style=for-the-badge&logo=twitter&logoColor=blue" target="_blank"></a>
   <h1>LuizNs#4564</h1>
 
   ![Snake animation](https://github.com/Dantalion-dev/Dantalion-dev/blob/output/github-contribution-grid-snake.svg)
