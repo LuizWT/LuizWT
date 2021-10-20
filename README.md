@@ -20,7 +20,7 @@
   
   ##
   <div>
-  <a href="https://youtube.com/channel/UCXJCfdCgdtU9k87BMrBJtuA" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=red" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCKvUal4LG23AQGDsckudIww" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=red" target="_blank"></a>
   <a href="https://twitter.com/bolsonaro" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23333?style=for-the-badge&logo=twitter&logoColor=blue" target="_blank"></a>
   <h1>LuizNs#4564</h1>
 
