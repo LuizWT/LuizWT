@@ -2,7 +2,7 @@
 <img align="right" src="https://media.discordapp.net/attachments/732350657243381810/835713653234991104/computer-illustration.png" width="300"/>
 
 - 🎓 Student of Ethical Hacking and Programming
-- 🌱 I'm currently learning Python3 & JavaScript
+- 🌱 I'm currently learning Python3 , TypeScript & JavaScript
 <br/>
 <div>
     <a href="#">
