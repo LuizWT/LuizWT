@@ -1,4 +1,4 @@
-<h2 align="left">Hey, I'm V0id! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+<h2 align="left">Hey, I'm Luiz! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 <img align="right" src="https://media.discordapp.net/attachments/732350657243381810/835713653234991104/computer-illustration.png" width="300"/>
 
 - 🎓 Student of Ethical Hacking and Programming
@@ -6,7 +6,7 @@
 <br/>
 <div>
     <a href="#">
-        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V0idWT&layout=compact&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizzNs&layout=compact&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
     </a>
 </div>
  
