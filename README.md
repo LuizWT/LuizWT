@@ -6,7 +6,7 @@
 <br/>
 <div>
     <a href="#">
-        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizzNs&layout=compact&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V0idWT&layout=compact&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
     </a>
 </div>
  
