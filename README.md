@@ -22,7 +22,7 @@
   <div>
   <a href="https://www.youtube.com/watch?v=lBdnti4_UUg&ab_channel=UnseenPhantom%5BAMV%27s%26YTP%5D" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=red" target="_blank"></a>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23333?style=for-the-badge&logo=twitter&logoColor=blue" target="_blank"></a>
-  <h1>V0id#0477</h1>
+  <h1>LuizNs#0001</h1>
 
   ![Snake animation](https://github.com/Dantalion-dev/Dantalion-dev/blob/output/github-contribution-grid-snake.svg)
 
