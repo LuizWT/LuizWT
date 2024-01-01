@@ -24,6 +24,6 @@
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=Youtube&logoColor=red" target="_blank"></a>
   <a href="https://discordapp.com/channels/@me/783523442728370186/" target="_blank"><img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/Dantalion-dev/Dantalion-dev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 </div>
