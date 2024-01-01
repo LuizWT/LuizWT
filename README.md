@@ -1,4 +1,4 @@
-<h2 align="left">Hey, meu nome é Luiz! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+<h2 align="left">Olá, meu nome é Luiz! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 <img align="right" src="https://media.discordapp.net/attachments/732350657243381810/835713653234991104/computer-illustration.png" width="300"/>
 
 - 🎓 Sou estudante de Defesa Cibernética e programação
