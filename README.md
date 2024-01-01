@@ -22,7 +22,7 @@
   <div>
   <a href="https://www.linkedin.com/in/luiz-felipe-272a65248" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=Linkedin&logoColor=blue" target="_blank"></a>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=Youtube&logoColor=red" target="_blank"></a>
-  <h1>LuizNs.py#1281</h1>
+  <h1>Discord: LuizWT</h1>
 
   ![Snake animation](https://github.com/Dantalion-dev/Dantalion-dev/blob/output/github-contribution-grid-snake.svg)
 
