@@ -1,5 +1,5 @@
 <h2 align="left">Olá, meu nome é Luiz! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Fillustrations%2Fcomputer&psig=AOvVaw2hhwsELPWvKYYFGTi6G6t-&ust=1713883769264000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNjJjt-I1oUDFQAAAAAdAAAAABAE" width="300"/>
+<img align="right" src="https://cdni.iconscout.com/illustration/premium/thumb/researcher-working-on-computer-3277588-2764204.png?f=webp" width="300"/>
 
 - 🎓 Sou estudante de Defesa Cibernética e programação
 - 🌱 Atualmente estou aprendendo Python3, TypeScript & JavaScript e outras tecnologias
