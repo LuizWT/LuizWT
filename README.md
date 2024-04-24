@@ -2,7 +2,7 @@
 <img align="right" src="https://cdni.iconscout.com/illustration/premium/thumb/researcher-working-on-computer-3277588-2764204.png?f=webp" width="300"/>
 
 - 🎓 Sou estudante de Defesa Cibernética e programação
-- 🌱 Atualmente estou aprendendo Python, C, Ruby TypeScript & JavaScript e outras tecnologias
+- 🌱 Atualmente estou aprendendo Python, C, Ruby, TypeScript & JavaScript e outras tecnologias
 <br/>
 <div>
     <a href="#">
