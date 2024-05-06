@@ -1,5 +1,5 @@
 <h2 align="left">Olá, meu nome é Luiz! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
-<img align="right" src="https://cdni.iconscout.com/illustration/premium/thumb/researcher-working-on-computer-3277588-2764204.png?f=webp" width="300"/>
+<img align="right" src="https://cdni.iconscout.com/illustration/premium/thumb/researcher-working-on-computer-3277588-2764204.png" width="300"/>
 
 - 🎓 Sou estudante de Defesa Cibernética e programação
 - 🌱 Atualmente estou aprendendo Python, C, Ruby, TypeScript, JavaScript e outras tecnologias
@@ -25,8 +25,8 @@
   <a href="https://discordapp.com/channels/@me/783523442728370186/" target="_blank"><img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </picture>
 
