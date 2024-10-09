@@ -3,7 +3,7 @@
 
 - 🎓 Sou estudante de Defesa Cibernética e programação.
 - 🌱 Atualmente estou aprendendo Python, Ruby, TypeScript, JavaScript e outras tecnologias.
-- 📖 Explorando novos tópicos em IA e Blockchain
+- 📖 Explorando novos tópicos em IA e Blockchain.
 
 ---
 
