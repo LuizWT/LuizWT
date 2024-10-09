@@ -37,10 +37,10 @@
   <a href="https://www.linkedin.com/in/luiz-felipe-272a65248" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=Linkedin&logoColor=blue" alt="LinkedIn">
   </a>
-  <a href="https://www.youtube.com/channel/UC29YGjj6C_kVeN_Br9RixgA" target="_blank">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-%23333?style=for-the-badge&logo=Youtube&logoColor=red" alt="YouTube">
   </a>
-  <a href="https://discordapp.com/channels/@me/783523442728370186/" target="_blank">
+  <a href="https://discordapp.com/channels/783523442728370186/" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </div>
