@@ -24,8 +24,6 @@
   <a href="#">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuizWT&theme=dark&background=000000" alt="GitHub Streak"/>
   </a>
-</div>
-<div>
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizWT&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
   </a>
