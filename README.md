@@ -34,8 +34,8 @@
 
 ### 📬 Contato:
 <div>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-%23333?style=for-the-badge&logo=Youtube&logoColor=red" alt="YouTube">
+  <a href="mailto:luizfelipe.sec@proton.me" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://discordapp.com/channels/783523442728370186/" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
