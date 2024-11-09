@@ -22,10 +22,10 @@
 ### 🔥 Estatísticas do GitHub:
 <div align="center">
   <a href="https://github.com/LuizWT">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LuizWT&theme=tokyonight_duo&background=0d1117&border=0d1117" alt="GitHub Streak" height="180"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LuizWT&theme=dark&hide_border=true" alt="GitHub Streak" height="180"/>
   </a>
   <a href="https://github.com/LuizWT">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizWT&layout=compact&theme=radical&bg_color=0d1117&border_color=0d1117&hide_border=true" alt="Top Langs" height="180"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizWT&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Langs" height="180"/>
   </a>
 </div>
 
