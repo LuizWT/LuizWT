@@ -22,9 +22,6 @@
 ### 🔥 Estatísticas do GitHub:
 <div align="center">
   <a href="https://github.com/LuizWT">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LuizWT&theme=dark&hide_border=true" alt="GitHub Streak" height="180"/>
-  </a>
-  <a href="https://github.com/LuizWT">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizWT&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Langs" height="180"/>
   </a>
 </div>
@@ -39,6 +36,9 @@
   </a>
   <a href="https://discordapp.com/channels/783523442728370186/" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://linkedin.com.br/in/luizwt" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn">
   </a>
 </div>
 
