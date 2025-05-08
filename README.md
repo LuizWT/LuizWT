@@ -45,7 +45,3 @@
 <div align="center" width="100%" height="445px">
   <img width="43%" style="margin:0px;padding:0px" heigth="445px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=l519fjq2u6cbdklsi7sq172q7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)]"
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-</picture>
